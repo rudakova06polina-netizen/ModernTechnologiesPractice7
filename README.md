@@ -1,5 +1,5 @@
-# Практическая работа №7 — Spring Framework и Spring Boot
-
+# Практическая работа №7 Spring Framework и Spring Boot
+main: https://aliebraheem-fun.github.io/Modern-Programming-Technologies/#/practice7
 Учебный репозиторий для выполнения практической работы по Spring Framework и Spring Boot.
 
 В проекте уже есть рабочее приложение. Основные учебные фрагменты кода выделены специальными маркерами:
